@@ -1,0 +1,20 @@
+a{
+  color: white;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1526c4;
+    color: white;
+    padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border: 2px solid #1526c4;
+  font-size: 18px;
+  
+  border-radius: 0.3em;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  position: relative;
+  overflow: hidden;
+}
